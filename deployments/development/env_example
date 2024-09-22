@@ -1,0 +1,13 @@
+export PROJECT_NAME="univway"
+export DJANGO_SETTINGS_MODULE="config.settings.development"
+export DB_NAME="univway"
+export DB_HOST="localhost"
+export DB_PORT="5432"
+export DB_USER="univway"
+export DB_PASS="univway"
+export DEBUG=True
+export SECRET_KEY="key"
+export PYTHONDONTWRITEBYTECODE=1
+export REDIS_LOCATION="redis://127.0.0.1:6379/1"
+export REDIS_PASSWORD=""
+export OPEN_API_KEY=key
